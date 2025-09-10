@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git 'https://github.com/yourusername/your-repo-name.git'
+                git 'https://github.com/rak2712/agri.git'
             }
         }
 
